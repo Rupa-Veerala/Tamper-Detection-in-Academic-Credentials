@@ -1,6 +1,7 @@
-***Tamper Detection in Academic Credentials***
+*Tamper Detection in Academic Credentials*
 
 **Objective**
+
 To build a rule-based prototype that detects tampering in academic credentials, specifically:
 
 Degree Certificates
